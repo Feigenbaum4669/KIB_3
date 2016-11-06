@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/feigenbaum/install/commons-codec-1.10/commons-codec-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/feigenbaum/install/commons-codec-1.10/commons-codec-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="/home/feigenbaum/install/commons-codec-1.10/commons-codec-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="/home/feigenbaum/install/commons-codec-1.10/commons-codec-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/feigenbaum/install/commons-codec-1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaFx"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-oracle/src.zip"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-oracle/javafx-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
